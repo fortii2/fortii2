@@ -6,6 +6,8 @@ This is Ethan’s digital garden, a space where a curious CS student explores ev
 
 Studying at Hebei Normal University.
 
+Incoming 25' Fall ECE MEng Co-op student at UWaterloo.
+
 Currently working as a Java Back-End Intern.
 
 Ingress Enlightened Level 16 Agent.
