@@ -1,19 +1,15 @@
-# Welcome to my github! 😊
+# Hi there! 👋 Welcome to my GitHub profile  
 
-This is Ethan’s digital garden, a space where a curious CS student explores everything.
+I'm Ethan, a curious CS student exploring various fields.  
 
-# About Me
+📌 Check out my personal blog: [Ethan’s Digital Garden](https://fortii2.github.io/)  
 
-Studying at Hebei Normal University.
+## About Me  
+- 🎓 Studying at Hebei Normal University  
+- 🎓 Incoming Fall 2025 ECE MEng Co-op student at the University of Waterloo  
+- 💻 Java Back-End Intern  
+- 🏆 Ingress Enlightened Level 16 Agent  
+- 📖 Passionate about literature and social sciences  
+- 🌍 Native in Mandarin, fluent in English, and learning French  
 
-Incoming 25' Fall ECE MEng Co-op student at UWaterloo.
-
-Currently working as a Java Back-End Intern.
-
-Ingress Enlightened Level 16 Agent.
-
-Enjoy reading literature and social science books.
-
-Native in Mandarin, fluent in English, and learning French.
-
-[Personal Blog](https://fortii2.github.io/)
+Let's connect and learn together! 🚀  
