@@ -15,3 +15,5 @@ Ingress Enlightened Level 16 Agent.
 Enjoy reading literature and social science books.
 
 Native in Mandarin, fluent in English, and learning French.
+
+My personal blog: https://fortii2.github.io/
