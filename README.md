@@ -14,4 +14,4 @@ I'm Ethan, a curious CS student exploring various fields.
 
 Let's connect and learn together! 🚀  
 
-![WakaTime](https://gist.github.com/fortii2/3047b7099c449939f522d52842284c4a)
+<script src="https://gist.github.com/fortii2/3047b7099c449939f522d52842284c4a.js"></script>
