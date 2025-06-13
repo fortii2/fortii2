@@ -13,6 +13,3 @@ I'm Ethan, a curious CS student exploring various fields.
 - 🌍 Native in Mandarin, fluent in English, and learning French  
 
 Let's connect and learn together! 🚀  
-
-
-![test](https://gist.github.com/fortii2/3047b7099c449939f522d52842284c4a.js)
