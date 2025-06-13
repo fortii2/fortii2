@@ -13,3 +13,6 @@ I'm Ethan, a curious CS student exploring various fields.
 - 🌍 Native in Mandarin, fluent in English, and learning French  
 
 Let's connect and learn together! 🚀  
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
