@@ -14,6 +14,7 @@ I'm Ethan, a curious CS student exploring various fields.
 
 Let's connect and learn together! 🚀  
 
+## Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
