@@ -1,13 +1,12 @@
 # Hi there! 👋 Welcome to my GitHub profile  
 
-I'm Ethan, a curious CS student exploring various fields.  
+I'm Ethan, a curious student exploring various fields.  
 
 📌 Check out my personal blog: [Ethan’s Digital Garden](https://fortii2.github.io/)  
 
 ## About Me  
 - 🎓 BSc in Computer Science, Hebei Normal University
-- 🎓 MEng in Electrical and Computer Engineering, University of Waterloo
-- 💻 Java Back-End Intern
+- 🎓 MEng in Electrical and Computer Engineering with Co-op, University of Waterloo
 - 🏆 Ingress Enlightened Level 16 Agent  
 - 🌍 Native in Mandarin, fluent in English, and learning French  
 
