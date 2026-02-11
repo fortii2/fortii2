@@ -25,18 +25,3 @@ A **Full-stack Developer** with a strong focus on **Backend Engineering**. Curre
 ---
 
 Let's connect and build something impactful! 🚀
-
-## Coding Activity
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 557 hrs 25 mins
-
-Java                       243 hrs 20 mins ███████████░░░░░░░░░░░░░░   43.65 %
-Other                      146 hrs 56 mins ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Python                     47 hrs 46 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown                   23 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-XML                        21 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-```
-
-<!--END_SECTION:waka-->
