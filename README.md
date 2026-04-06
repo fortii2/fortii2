@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ethan (He/Him) 🏳️‍🌈
+# Hi there! 👋 I'm Zed (He/Him) 🏳️‍🌈
 
 A **Full-stack Developer** with a strong focus on **Backend Engineering**. Currently pursuing my **MEng in ECE at the University of Waterloo**, I specialize in building scalable distributed systems and modern web applications.
 
