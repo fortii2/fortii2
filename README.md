@@ -6,14 +6,9 @@ A **Full-stack Developer** with a strong focus on **Backend Engineering**. Curre
 
 ---
 
-### 🚀 Seeking Opportunities
-* 🔍 Actively seeking **2026 Spring/Summer Co-op** roles.
-* 🗓️ Available for **4 or 8 months** starting May 2026.
-* 💻 Specialized in **Java Backend**, with strong **Full-stack capabilities** in **React**.
-
 ### 🛠️ Main Tech Stack
 * **Backend:** Java (Spring Ecosystem)
-* **Frontend:** React, TypeScript, Tailwind CSS
+* **Frontend:** React, TypeScript
 * **Infrastructure:** AWS, Docker, GitHub Actions (CI/CD), SQL (MySQL, SQLite)
 
 ### 🎓 About Me
