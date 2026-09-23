@@ -7,7 +7,7 @@ A Full-stack Developer with a strong focus on **Backend Engineering**. I'm curre
 ---
 
 ### 🛠️ Main Tech Stack
-* **Backend:** Java (Spring Ecosystem)
+* **Backend:** Java (Spring Ecosystem), Python
 * **Frontend:** React, TypeScript
 * **Infrastructure:** AWS, Docker, GitHub Actions (CI/CD), SQL (MySQL, SQLite)
 
